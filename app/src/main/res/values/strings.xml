@@ -2,5 +2,6 @@
     <string name="app_name">Code-Plus-Plus</string>
     <string name="write_code_button">Write A Line Of Code</string>
     <string name="lines_of_code_label">Lines Of Code:</string>
-    <string name="compile_button">Compile Program</string>
+    <string name="compile_button">Compile Method</string>
+    <string name="class_button">Compile Class</string>
 </resources>
